@@ -118,7 +118,8 @@ to ensure long-term discoverability, citation, and structured integration into r
   Contains raw data, schema, and commit history.  
 
 - **ORCID (Author Profile):**  
-  ORCID iD: [0009-0003-3539-5583](https://orcid.org/0009-0003-3539-5583)  
+  ORCID iD: [0009-0003-3539-5583](https://orcid.org/0009-0003-3539-5583)
+  Scholar iD [Ril05EsAAAAJ](https://scholar.google.com/citations?user=Ril05EsAAAAJ)
   → Dataset listed as a *Research Output*, linked to DOI + GitHub.  
 
 ---
