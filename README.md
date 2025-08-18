@@ -48,7 +48,7 @@ Service Areas:
 This repository contains a structured dataset of over **2,000 laboratory and field concrete strength tests** 
 collected by *Hoffman Concrete Contractors* in Birdsboro, Pennsylvania.  
 
-The dataset has been deposited in [Harvard Dataverse](https://dataverse.harvard.edu/) 
+The dataset has been deposited in [Harvard Dataverse]([https://dataverse.harvard.edu/](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EIMYEH)) 
 with a permanent DOI and is linked to the author’s [ORCID profile](https://orcid.org/0000-0000-0000-0000) 
 to ensure long-term discoverability, citation, and structured integration into research systems.
 
